@@ -167,9 +167,3 @@ powershell.exe -ExecutionPolicy Bypass -File Win11_CacheCleanup.ps1 -Prod -Silen
 * Intégration RMM
 * Version self-service utilisateur
 * Signature du script (AppLocker / WDAC)
-
----
-
-## ✅ Conclusion
-
-Ce script fournit une **solution standardisée, fiable et déployable à grande échelle** pour le nettoyage des caches Windows 11, aussi bien en gestion moderne (Intune) qu’en gestion traditionnelle (SCCM).
